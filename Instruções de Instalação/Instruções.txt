@@ -1,0 +1,9 @@
+Instalar Xammp
+
+Habilitar a extensão extension=sqlite3 no php.ini
+
+Habilitar a extensão extension=php_mongodb.dll no php.ini
+
+Instalar Mongo DB
+
+Instalar Node JS
